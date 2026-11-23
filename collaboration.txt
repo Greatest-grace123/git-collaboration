@@ -1,1 +1,2 @@
 I am learning how to collaborate using Git and GitHub.
+I am now learning how to receive updates from other developers.
